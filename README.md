@@ -1,6 +1,6 @@
 # travel-website
 Travel with KG TOURS in Sri Lanka
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -40,7 +40,6 @@ Travel with KG TOURS in Sri Lanka
         
        
    
-</section>
 
 <section id="contact">
     <h2>Contact Us</h2>
@@ -53,5 +52,4 @@ Travel with KG TOURS in Sri Lanka
     <p>© 2026 Travel With Us. All Rights Reserved.</p>
 </footer>
 
-</body>
-</html>
+
