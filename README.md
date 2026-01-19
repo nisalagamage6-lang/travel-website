@@ -11,44 +11,7 @@ Travel with KG TOURS in Sri Lanka
             font-family: Arial, sans-serif;
             background: #f4f4f4;
         }
-        header {
-            background: url('https://images.unsplash.com/photo-1507525428034-b723cf961d3e');
-            background-size: cover;
-            color: white;
-            padding: 80px 20px;
-            text-align: center;
-        }
-        nav {
-            background: #333;
-            padding: 10px;
-            text-align: center;
-        }
-        nav a {
-            color: white;
-            margin: 10px;
-            text-decoration: none;
-            font-weight: bold;
-        }
-        section {
-            padding: 40px 20px;
-            background: white;
-            margin: 20px;
-            border-radius: 10px;
-        }
-        .destinations img {
-            width: 100%;
-            max-width: 300px;
-            border-radius: 10px;
-        }
-        footer {
-            background: #333;
-            color: white;
-            text-align: center;
-            padding: 15px;
-        }
-    </style>
-</head>
-<body>
+     
 
 <header>
     <h1>Travel With KG TOURS In Sri Lanka</h1>
