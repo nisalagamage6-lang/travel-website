@@ -4,14 +4,7 @@ Travel with KG TOURS in Sri Lanka
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Travel With KG TOURS</title>
-    <style>
-        body {
-            margin: 0;
-            font-family: Arial, sans-serif;
-            background: #f4f4f4;
-        }
-     
+    
 
 <header>
     <h1>Travel With KG TOURS In Sri Lanka</h1>
@@ -46,7 +39,7 @@ Travel with KG TOURS in Sri Lanka
         <li>Yala Safari - 1 Day - LKR 22,000 (Safari jeep & Entrance ticket can be Arrenge)</li>
         
        
-    </ul>
+   
 </section>
 
 <section id="contact">
